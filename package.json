@@ -1,0 +1,13 @@
+{
+  "name": "sinbaram-market-kakao-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Google Sheets price/inventory Kakao chatbot with optional Gemini assistance",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
